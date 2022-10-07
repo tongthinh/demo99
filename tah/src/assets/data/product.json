@@ -1,0 +1,106 @@
+[{
+        "id": 1,
+        "name": "NIKE AIR MAX SC",
+        "category_id": 1,
+        "price": 231,
+        "img": "../../assets/image/4.webp"
+    },
+    {
+        "id": 2,
+        "name": "NIKE CITY REP TR",
+        "category_id": 1,
+        "price": 190,
+        "img": "../../assets/image/5.webp"
+    },
+    {
+        "id": 3,
+        "name": "sportswear nike",
+        "category_id": 1,
+        "price": 263,
+        "img": "../../assets/image/6.webp"
+    },
+    {
+        "id": 4,
+        "name": "NIKE AIR MAX 90",
+        "category_id": 1,
+        "price": 421,
+        "img": "../../assets/image/7.webp"
+    },
+    {
+        "id": 5,
+        "name": "Nike Air Zoom Pegasus",
+        "category_id": 2,
+        "price": 371,
+        "img": "../../assets/image/8.webp"
+    },
+    {
+        "id": 6,
+        "name": "Nike LEGEND 9 ACADEMY TF",
+        "category_id": 2,
+        "price": 218,
+        "img": "../../assets/image/9.webp"
+    },
+    {
+        "id": 7,
+        "name": "Nike AIR MAX EXCEE",
+        "category_id": 2,
+        "price": 185,
+        "img": "../../assets/image/10.webp"
+    },
+    {
+        "id": 8,
+        "name": "Nike DBreak-Type SE",
+        "category_id": 2,
+        "price": 205,
+        "img": "../../assets/image/11.webp"
+    },
+    {
+        "id": 9,
+        "name": "NIKE GTS 97",
+        "category_id": 3,
+        "price": 190,
+        "img": "../../assets/image/12.webp"
+    },
+    {
+        "id": 10,
+        "name": "Nike Air Max",
+        "category_id": 3,
+        "price": 109,
+        "img": "../../assets/image/13.webp"
+    },
+    {
+        "id": 11,
+        "name": "Nike Legend Essential 2",
+        "category_id": 3,
+        "price": 175,
+        "img": "../../assets/image/14.webp"
+    },
+    {
+        "id": 12,
+        "name": "nike Monarch IV",
+        "category_id": 3,
+        "price": 133,
+        "img": "../../assets/image/15.webp"
+    },
+    {
+        "id": 16,
+        "name": "NIKE GTS 97",
+        "category_id": 4,
+        "price": 201,
+        "img": "../../assets/image/3.webp"
+    },
+    {
+        "id": 17,
+        "name": "NIKE DOWNSHIFTER 12",
+        "category_id": 4,
+        "price": 190,
+        "img": "../../assets/image/2.webp"
+    },
+    {
+        "id": 18,
+        "name": "Nike",
+        "category_id": 4,
+        "price": 100,
+        "img": "../../assets/image/1.webp"
+    }
+]
